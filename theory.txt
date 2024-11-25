@@ -1,0 +1,50 @@
+Class 31.1 Practice @Loop -next
+====================
+use camelCase
+1. for loop
+2. forEach loop
+3. while loop
+4. do while loop
+===================
+1. for loop 
+let marks = [56, 61, 90, 30, 58, 99];
+
+for(let i=0; i<=5; i++){
+    console.log(marks[i]);
+}
+====================
+
+2. forEach loop..................
+=> =means array function
+let array = [344, 59, 0, 67];
+array.foreach(element)=> 
+
+array.foreach((element)=>){
+    //statement
+}
+
+array.foreach((element)=>{
+    element;
+})
+
+===============
+
+3. While Loop .........
+
+let i=0; 
+while(i<=5){
+    //statement........
+
+    increment/decrement
+}
+
+
+4. do while loop...........
+
+let i = 0;
+do{
+    //statement..
+    increment/decrement
+}
+while (i<=5);
+
